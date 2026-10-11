@@ -1,0 +1,11 @@
+{
+  "name": "Color Pop",
+  "short_name": "Color Pop",
+  "description": "Free color-by-number for any picture.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#fbf6ff",
+  "theme_color": "#ff5a7a",
+  "icons": [{ "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }]
+}

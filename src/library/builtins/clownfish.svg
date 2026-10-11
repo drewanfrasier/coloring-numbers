@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+  <rect width="512" height="512" fill="#5ec8e5"/>
+  <path d="M0 380 Q128 350 256 380 Q384 410 512 380 L512 512 L0 512 Z" fill="#f2d49b"/>
+  <path d="M60 512 Q40 440 70 380 Q90 330 70 280 Q110 330 96 390 Q84 450 100 512 Z" fill="#3fa34d"/>
+  <path d="M420 512 Q440 450 410 400 Q390 360 420 320 Q460 370 450 420 Q440 470 460 512 Z" fill="#3fa34d"/>
+  <path d="M120 512 Q130 470 115 440 Q140 460 145 512 Z" fill="#2e8540"/>
+  <circle cx="420" cy="90" r="18" fill="#bfeaf5"/>
+  <circle cx="450" cy="150" r="12" fill="#bfeaf5"/>
+  <circle cx="400" cy="190" r="9" fill="#bfeaf5"/>
+  <circle cx="90" cy="120" r="14" fill="#bfeaf5"/>
+  <path d="M110 230 L40 160 L60 240 L40 320 Z" fill="#f57a1f"/>
+  <ellipse cx="240" cy="240" rx="150" ry="95" fill="#f57a1f"/>
+  <path d="M200 150 Q240 90 300 150 Z" fill="#f57a1f"/>
+  <path d="M220 320 Q250 370 290 325 Z" fill="#f57a1f"/>
+  <path d="M150 168 Q178 240 150 312 Q130 310 116 300 Q136 240 116 180 Q130 170 150 168 Z" fill="#ffffff"/>
+  <path d="M230 146 Q262 240 230 334 Q254 338 276 334 Q300 240 276 146 Q254 142 230 146 Z" fill="#ffffff"/>
+  <path d="M330 176 Q352 240 330 304 Q350 296 366 280 Q374 240 366 200 Q350 184 330 176 Z" fill="#ffffff"/>
+  <circle cx="330" cy="226" r="20" fill="#ffffff"/>
+  <circle cx="334" cy="226" r="11" fill="#2b2140"/>
+  <path d="M368 262 Q378 270 388 262" fill="none" stroke="#2b2140" stroke-width="6" stroke-linecap="round"/>
+</svg>
