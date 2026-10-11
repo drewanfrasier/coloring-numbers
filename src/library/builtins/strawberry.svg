@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+  <path d="M256 480 Q90 380 96 220 Q100 140 180 130 Q256 120 332 130 Q412 140 416 220 Q422 380 256 480 Z" fill="#e63946"/>
+  <path d="M256 480 Q330 400 360 300 Q380 220 340 150 Q412 160 416 220 Q422 380 256 480 Z" fill="#c1272d"/>
+  <path d="M256 150 L200 80 L230 140 L150 110 L196 160 L130 170 L210 180 L256 160 L302 180 L382 170 L316 160 L362 110 L282 140 L312 80 Z" fill="#4c9a2a"/>
+  <rect x="248" y="40" width="16" height="70" rx="8" fill="#3d7a22"/>
+  <g fill="#ffe066">
+    <ellipse cx="170" cy="230" rx="8" ry="12"/>
+    <ellipse cx="230" cy="214" rx="8" ry="12"/>
+    <ellipse cx="290" cy="214" rx="8" ry="12"/>
+    <ellipse cx="350" cy="230" rx="8" ry="12"/>
+    <ellipse cx="140" cy="290" rx="8" ry="12"/>
+    <ellipse cx="200" cy="280" rx="8" ry="12"/>
+    <ellipse cx="260" cy="272" rx="8" ry="12"/>
+    <ellipse cx="320" cy="280" rx="8" ry="12"/>
+    <ellipse cx="376" cy="290" rx="8" ry="12"/>
+    <ellipse cx="180" cy="346" rx="8" ry="12"/>
+    <ellipse cx="236" cy="336" rx="8" ry="12"/>
+    <ellipse cx="292" cy="336" rx="8" ry="12"/>
+    <ellipse cx="344" cy="346" rx="8" ry="12"/>
+    <ellipse cx="220" cy="400" rx="8" ry="12"/>
+    <ellipse cx="270" cy="396" rx="8" ry="12"/>
+    <ellipse cx="310" cy="404" rx="8" ry="12"/>
+  </g>
+</svg>

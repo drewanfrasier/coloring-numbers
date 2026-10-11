@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+  <rect width="512" height="512" fill="#ffd6a5"/>
+  <circle cx="420" cy="420" r="60" fill="#ffadad"/>
+  <path d="M0 460 Q120 420 240 460 Q370 500 512 450 L512 512 L0 512 Z" fill="#caffbf"/>
+  <path d="M40 140 Q40 110 72 112 Q84 86 114 96 Q140 86 150 114 Q176 116 172 140 Z" fill="#ffffff"/>
+  <path d="M350 80 Q350 56 376 58 Q386 36 410 44 Q434 36 442 60 Q464 60 460 80 Z" fill="#ffffff"/>
+  <path d="M256 40 Q380 40 380 170 Q380 250 290 320 L222 320 Q132 250 132 170 Q132 40 256 40 Z" fill="#ef476f"/>
+  <path d="M256 40 Q200 50 196 170 Q196 250 236 320 L222 320 Q132 250 132 170 Q132 40 256 40 Z" fill="#ffd166"/>
+  <path d="M256 40 Q312 50 316 170 Q316 250 276 320 L290 320 Q380 250 380 170 Q380 40 256 40 Z" fill="#118ab2"/>
+  <path d="M256 40 Q234 60 234 170 Q234 250 248 320 L264 320 Q278 250 278 170 Q278 60 256 40 Z" fill="#06d6a0"/>
+  <path d="M226 320 L218 370 M286 320 L294 370" stroke="#6b4329" stroke-width="6"/>
+  <rect x="206" y="366" width="100" height="64" rx="10" fill="#b5835a"/>
+  <rect x="206" y="384" width="100" height="10" fill="#8b5a2b"/>
+  <rect x="206" y="406" width="100" height="10" fill="#8b5a2b"/>
+</svg>
